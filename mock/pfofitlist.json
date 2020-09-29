@@ -1,0 +1,13 @@
+{
+    "msg": "asdf",
+    "code": 0,
+    "data": [
+        {
+          "id": 1,
+          "order_detail_id": "adsf",
+          "school_commission_rate": "xx",
+          "profit": "xx",
+          "create_time": "x"
+        }
+    ]
+  }

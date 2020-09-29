@@ -1,0 +1,22 @@
+{
+    "msg": "OK",
+    "code": 0,
+    "data":[
+        {
+          "id": 1,
+          "withdraw_money": "120",
+          "withdraw_bankaccount": "提现账号",
+          "status": "提出申请 | 已转账",
+          "payment_no": "12312312343",
+          "create_time": "2019.5.1"
+        },
+        {
+            "id": 2,
+            "withdraw_money": "120",
+            "withdraw_bankaccount": "提现账号",
+            "status": "提出申请 | 已转账",
+            "payment_no": "12312312343",
+            "create_time": "2019.5.1"
+        }
+    ]
+  }
